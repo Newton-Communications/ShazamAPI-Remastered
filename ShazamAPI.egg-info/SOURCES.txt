@@ -1,0 +1,11 @@
+README.md
+setup.py
+ShazamAPI/__init__.py
+ShazamAPI/algorithm.py
+ShazamAPI/api.py
+ShazamAPI/signature_format.py
+ShazamAPI.egg-info/PKG-INFO
+ShazamAPI.egg-info/SOURCES.txt
+ShazamAPI.egg-info/dependency_links.txt
+ShazamAPI.egg-info/requires.txt
+ShazamAPI.egg-info/top_level.txt
